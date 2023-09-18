@@ -5,8 +5,7 @@ public class Count2 {
             System.out.print("2 times ");
             System.out.print(times);
             System.out.print(" = ");
-            System.out.print(x * times); 
+            System.out.print(x * times + "\n"); 
     }
-        System.out.println("");
     }
 }
